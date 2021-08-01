@@ -4,6 +4,7 @@
   "task": [
     "1 6,22 * * * https://raw.githubusercontent.com/guozj08/Quantumult-X/master/QuantumultX/Task/DiDi_sleep.js, tag=滴滴睡觉, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true",
     "40 8,20,9-19/2 * * * https://raw.githubusercontent.com/guozj08/Quantumult-X/master/QuantumultX/Task/DiDi_drink.js, tag=滴滴喝水, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true", 
+    "01 21 * * * https://raw.githubusercontent.com/guozj08/Quantumult-X/master/QuantumultX/Task/DiDi_new.js, tag=滴滴睡觉, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png, enabled=true",
     "15 17 * * * https://raw.githubusercontent.com/guozj08/Quantumult-X/master/QuantumultX/Task/xmsport.js, tag=小米运动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true",
   ]
 }
